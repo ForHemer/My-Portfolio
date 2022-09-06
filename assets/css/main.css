@@ -1800,6 +1800,10 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	.form-button {
+		margin-top: 2em;
+	}
+
 	label {
 		color: #787878;
 		display: block;
