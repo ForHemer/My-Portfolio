@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # My Portfolio
-The Meal DB web application displays a list of meals that provided by an external [API](https://www.themealdb.com/api/json/v1/1/filter.php?a=chinese). The users can like a meal, leave some comments or make a reservation, in these cases an involvement API will be used.
+This is my personal Portfolio.
 
 
 ## Live Demo
